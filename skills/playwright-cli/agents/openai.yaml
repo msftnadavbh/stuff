@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playwright CLI"
+  short_description: "Drive browsers from compact CLI commands"
+  default_prompt: "Use $playwright-cli to inspect and verify this web app in the browser."

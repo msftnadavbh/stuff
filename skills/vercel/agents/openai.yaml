@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vercel"
+  short_description: "Deploy and debug Vercel projects"
+  default_prompt: "Use $vercel to prepare, deploy, or debug this Vercel app."
