@@ -1,0 +1,4 @@
+interface:
+  display_name: "Azure Diagram Builder"
+  short_description: "Design and validate Azure architectures"
+  default_prompt: "Use $azure-diagram-builder to create and validate an Azure architecture diagram."
